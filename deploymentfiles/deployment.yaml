@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: 
-        ports: halamadriddevops/testk8s:latest
+        image: halamadriddevops/testk8s:latest
+        ports:
         - containerPort: 8080
